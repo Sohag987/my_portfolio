@@ -19,9 +19,9 @@ export default function Footer() {
           <div className="flex flex-col items-center md:items-end gap-6 text-center md:text-right">
             <div className="flex gap-6">
               {[
-                { icon: <Github size={20} />, href: "#", name: "GitHub" },
-                { icon: <Linkedin size={20} />, href: "#", name: "LinkedIn" },
-                { icon: <Twitter size={20} />, href: "#", name: "Twitter" },
+                { icon: <Github size={20} />, href: "https://github.com/Sohag987", name: "GitHub" },
+                { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/in/sohag-mondal-3b7042317/", name: "LinkedIn" },
+                
                 { icon: <Mail size={20} />, href: "mailto:sohagmondal987@gmail.com", name: "Email" },
               ].map((social) => (
                 <a 

@@ -38,17 +38,11 @@ export default function Header() {
               </a>
             ))}
             <div className="flex items-center space-x-4 border-l border-slate-700 pl-8">
-              <a 
-                href="/Sohag_Mondal_CV.pdf" 
-                download 
-                className="text-xs font-mono px-3 py-1 bg-blue-500/10 text-blue-400 border border-blue-500/20 rounded hover:bg-blue-500 hover:text-white transition-all"
-              >
-                RESUME
-              </a>
-              <a href="https://github.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white">
+              
+              <a href="https://github.com/Sohag987" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white">
                 <Github size={18} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white">
+              <a href="https://www.linkedin.com/in/sohag-mondal-3b7042317/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white">
                 <Linkedin size={18} />
               </a>
             </div>
