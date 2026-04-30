@@ -22,7 +22,7 @@ export default function Header() {
             className="flex items-center gap-2"
           >
             <span className="text-xl font-bold font-mono tracking-tighter text-blue-400">
-              SM<span className="text-slate-200">.DEV</span>
+              SOHAG<span className="text-slate-200">MONDAL</span>
             </span>
           </motion.div>
 
