@@ -45,7 +45,7 @@ export default function Hero() {
               </motion.a>
               <motion.a
                 href="Sohag_Mondal_CV.pdf"
-                download="Sohag_Mondal_CV.pdf"
+                download="/public/Sohag_Mondal_CV.pdf"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-lg font-medium border border-white/10 flex items-center gap-2 transition-colors"
